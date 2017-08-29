@@ -17,4 +17,4 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 #### About
 
-this project is ablog whe you can add and delete posts, build with react and redux
+this project is a blog whe you can add and delete posts, build with react and redux
